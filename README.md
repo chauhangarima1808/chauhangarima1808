@@ -1,10 +1,9 @@
-                                                    ## Welcome to my GitHub! 👋
+# Welcome to my GitHub 👋
 
-&nbsp;&nbsp;&nbsp;AWS Certified Solutions Architect and Engineer specializing in driving Business Transformation through System Modernization & Cloud-Enabled Platforms
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AWS Certified Solutions Architect and Engineer specializing in driving Business Transformation through System Modernization & 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cloud-Enabled Platforms 
 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dedicated to expanding my expertise in Cloud technologies and continuous learning.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dedicated to expanding my expertise in Cloud technologies and continuous learning.  
 
 Hi, I'm **Garima Chauhan**, an **AWS Certified Solutions Architect and Engineer** with experience in designing and modernizing cloud-native architectures, platform engineering, and application modernization. I have a proven track record of working closely with both technical stakeholders and executive leaders to convert business objectives into resilient, high-performance cloud solutions.
 
