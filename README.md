@@ -6,7 +6,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dedicated to expanding my expertise in Cloud technologies and continuous learning.  
 
-Hi, I'm **Garima Chauhan**, an **AWS Certified Solutions Architect and Engineer** with over 8 years of experience in designing and modernizing cloud-native architectures, platform engineering, and application modernization. I have a proven track record of working closely with both technical stakeholders and executive leaders to convert business objectives into resilient, high-performance cloud solutions.
+Hi, I'm **Garima Chauhan**, an **AWS Certified Solutions Architect and Engineer** with experience in designing and modernizing cloud-native architectures, platform engineering, and application modernization. I have a proven track record of working closely with both technical stakeholders and executive leaders to convert business objectives into resilient, high-performance cloud solutions.
 
 I have extensive experience in:
 
