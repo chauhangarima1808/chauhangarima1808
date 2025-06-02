@@ -24,7 +24,7 @@ I have extensive experience in:
 As someone passionate about cloud technologies, I contribute by sharing insights and practical tutorials on AWS services via platforms like Medium and GitHub, as well as on my personal website, helping others to easily explore and master cloud solutions.
 
 ### Connect with me:
-- 🌐 [Personal Website](https://cloud.garimachauhan.com/)
+- 🌐 [Personal Website](https://www.garimachauhan.com/)
 - ✍️ [Medium](https://medium.com/@garimachauhan1893)
 - 💼 [LinkedIn](https://www.linkedin.com/in/garimachauhan18/)
 
